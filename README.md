@@ -35,3 +35,7 @@ ls
 git pull
 python prem.py
   ```
+### INSTAGRAM RESULTS
+![OK RESULTS](https://github.com/Dra-ID/Premium-Insta/blob/main/img/ig.png)
+### FACEBOOK RESULTS
+![OK RESULTS](https://github.com/Dra-ID/Premium-Insta/blob/main/img/fb.png)
