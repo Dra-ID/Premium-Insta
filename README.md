@@ -20,7 +20,7 @@ git clone https://github.com/Dra-ID/Premium-Insta
 cd Premium-Insta
 ls
 git pull
-python run.py
+python prem.py
 ```
   </details>
   
@@ -32,5 +32,5 @@ cd
 cd Premium-Insta
 ls
 git pull
-python run.py
+python prem.py
   ```
