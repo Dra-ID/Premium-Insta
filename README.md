@@ -19,6 +19,7 @@ rm -rf Premium-Insta
 git clone https://github.com/Dra-ID/Premium-Insta
 cd Premium-Insta
 ls
+pip install -r requirements.txt
 git pull
 python prem.py
 ```
